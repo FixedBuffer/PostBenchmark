@@ -12,7 +12,7 @@ namespace PostBenchmarkDotNet
 
         public double Multiplicacion(double a, double b)
         {
-            return a + b;
+            return a * b;
         }
 
         public double Potencia(double @base, double exponente)
